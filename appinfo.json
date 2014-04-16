@@ -1,0 +1,19 @@
+{
+  "uuid": "397c8b2d-1442-4a67-8a0e-419a3116fe4e",
+  "shortName": "MyJSApp",
+  "longName": "MyJSApp",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "title": 0,
+    "description": 1,
+    "fetch": 2
+  },
+  "resources": {
+    "media": []
+  }
+}
